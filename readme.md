@@ -1,6 +1,6 @@
 # Repo de Preparação p/ Concursos
 
-Este repositório contém resumos, notas e materiais de estudo p/ concursos públicos, atualmente com foco no cargo de Analista de TI p/ o concurso do BACEN. Os materiais aqui são oriundos diretamente da plataforma do Gran Cursos Online, ou foram redigidos por mim com base em tais materiais.
+Este repositório contém materiais de estudo p/ concursos públicos. Os materiais são oriundos diretamente da plataforma do Gran Cursos Online, ou foram redigidos por mim com base em tais materiais.
 
 ## Estrutura do Repositório
 
