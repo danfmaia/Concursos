@@ -1,0 +1,47 @@
+{
+  // "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+  // "editor.letterSpacing": -0.35,
+  // "editor.fontFamily": "'Noto Sans PI', 'Droid Sans Mono', 'monospace', monospace",
+  // "editor.letterSpacing": 0.5,
+
+  "[plaintext]": {
+    // "editor.fontFamily": "'Linux Libertine PI', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.fontFamily": "'Noto Sans', 'monospace', monospace",
+    "editor.fontSize": 18,
+    "editor.letterSpacing": 0.2
+  },
+
+  // extend plaintext settings to other files
+  "files.associations": {
+    "*.plaintext": "plaintext",
+    // "*.md": "md",
+    // "*.md": "plaintext",
+    "**/src/common/preliminary_replacements.py": "plaintext"
+  },
+  "markdown.preview.fontFamily": "'Linux Libertine PI', 'Droid Sans Mono', 'monospace', monospace",
+  "markdown.preview.fontSize": 20,
+
+  "[markdown]": {
+    "editor.tabSize": 2
+  },
+
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.rulers": [80]
+  },
+  "autopep8.args": ["--max-line-length=79"],
+
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.autoFormatStrings": true,
+
+  "[yaml]": {
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.detectIndentation": false,
+    "editor.rulers": [80]
+  }
+}
