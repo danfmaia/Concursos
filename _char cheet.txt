@@ -5,3 +5,9 @@ Operadores Lógicos:
 Misc:
 
 	∈ ≅
+
+Code:
+
+```js
+CODE
+```
