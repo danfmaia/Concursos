@@ -20,12 +20,18 @@ Os materiais estão organizados por concurso e disciplina. Abaixo seguem as disc
 
 **BACEN:**
 
+    1. Lingua Portuguesa
     2. Lógica e Estatística
     3. Direito Administrativo
+    4. Fundamentos de Macroeconomia e Microeconomia
+    5. Atualidades (Somente p/ a prova discursiva)
     6. Ciência de Dados
     7. Segurança da Informação
     8. Engenharia de Software
+    9. Infraestrutura em TI
     10. Banco de Dados
+    11. Gestão em TI
+    12. Prova Discursiva (Orientações gerais)
 
 ## Contribuições
 

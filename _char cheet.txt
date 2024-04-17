@@ -4,7 +4,7 @@ Operadores Lógicos:
 
 Misc:
 
-	∈ ≅ 
+	∈ ≅ ← ➡️
 
 Code:
 
