@@ -13,7 +13,7 @@
 CODE;
 ```
 
-### Math equations
+### Math equations ()
 
 $x^2$
 
