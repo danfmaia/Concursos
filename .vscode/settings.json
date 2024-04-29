@@ -12,8 +12,8 @@
     // "*.md": "plaintext",
     "**/src/common/preliminary_replacements.py": "plaintext"
   },
-  "markdown.preview.fontFamily": "'Noto Sans', 'Droid Sans Mono', 'monospace', monospace",
-  "markdown.preview.fontSize": 18,
+  // "markdown.preview.fontFamily": "'Noto Sans', 'Droid Sans Mono', 'monospace', monospace",
+  "markdown.preview.fontSize": 16,
 
   "[markdown]": {
     "editor.tabSize": 2
