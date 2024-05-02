@@ -18,13 +18,13 @@ Para otimizar seu cronograma de estudos até a data da prova do BACEN no dia 12 
 
 ### 22 Abril (Segunda)
 
-- Atualidades - Aula 2
+- ✅ Atualidades - Aula 2
 - ✅ Fundamentos de Macroeconomia e Microeconomia - Aulas 2.1 a 2.3
-- Prova Discursiva (Orientações Gerais) - Aula 2
+- ✅ Prova Discursiva (Orientações Gerais) - Aula 2
 
 ### 23 Abril (Terça)
 
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 2.4 a 2.6
+- ✅ Fundamentos de Macroeconomia e Microeconomia - Aulas 2.4 a 2.6
 - Treinamento Intensivo: Direito Administrativo - Aulas 1 e 2
 - Treinamento Intensivo: Ciência de Dados - Aula 1
 
