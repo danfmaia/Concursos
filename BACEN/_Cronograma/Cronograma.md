@@ -1,82 +1,76 @@
-# Cronograma Intensivo p/ o BACEN
+## Cronograma de Estudo Intensivo - BACEN
 
-Para otimizar seu cronograma de estudos até a data da prova do BACEN no dia 12 de maio, começando hoje, 19 de abril, e com o último dia para vídeoaulas em 1° de maio, seguem as aulas distribuídas por dia, intercalando humanas e exatas conforme solicitado:
+### Ciclo 1
 
-## Semana 1: 19 a 26 de Abril
+- **Fundamentos de Macro e Micro**: 4 aulas ✅
+- **Atualidades**: 0 aulas
+- **Prova Discursiva**: 0 aulas
+- **Ciência de Dados**: 5 aulas - 4
+- **Língua Portuguesa**: 2 aulas
+- **Noções de Lógica e Estatística**: 2 aulas
+- **Direito Administrativo**: 1 aula
+- **Segurança da Informação**: 1 aula
+- **Engenharia de Software**: 2 aulas
+- **Infraestrutura em TI**: 1 aula
+- **Bancos de Dados**: 2 aulas
+- **Gestão em TI**: 1 aula
 
-### 19 Abril (Sexta)
+### Ciclo 2
 
-- ✅ Fundamentos de Macroeconomia e Microeconomia - Aulas 1.1 a 1.3
-- ✅ Atualidades - Aula 1
-- ✅ Prova Discursiva (Orientações Gerais) - Aula 1
+- **Fundamentos de Macro e Micro**: 5 aulas
+- **Atualidades**: 1 aula
+- **Prova Discursiva**: 1 aula
+- **Ciência de Dados**: 6 aulas
+- **Língua Portuguesa**: 1 aula
+- **Noções de Lógica e Estatística**: 1 aula
+- **Direito Administrativo**: 0 aulas
+- **Segurança da Informação**: 1 aula
+- **Engenharia de Software**: 2 aulas
+- **Infraestrutura em TI**: 1 aula
+- **Bancos de Dados**: 1 aula
+- **Gestão em TI**: 1 aula
 
-### 20 Abril (Sábado)
+### Ciclo 3
 
-- ✅ Fundamentos de Macroeconomia e Microeconomia - Aulas 1.4 a 1.6
-- ✅ Treinamento Intensivo: Língua Portuguesa - Aulas 1 e 2
-- ✅ Treinamento Intensivo: Noções de Lógica e Estatística - Aula 1
+- **Fundamentos de Macro e Micro**: 5 aulas
+- **Atualidades**: 0 aulas
+- **Prova Discursiva**: 0 aulas
+- **Ciência de Dados**: 6 aulas
+- **Língua Portuguesa**: 1 aula
+- **Noções de Lógica e Estatística**: 2 aulas
+- **Direito Administrativo**: 1 aula
+- **Segurança da Informação**: 0 aulas
+- **Engenharia de Software**: 1 aula
+- **Infraestrutura em TI**: 1 aula
+- **Bancos de Dados**: 1 aula
+- **Gestão em TI**: 1 aula
 
-### 22 Abril (Segunda)
+### Ciclo 4
 
-- ✅ Atualidades - Aula 2
-- ✅ Fundamentos de Macroeconomia e Microeconomia - Aulas 2.1 a 2.3
-- ✅ Prova Discursiva (Orientações Gerais) - Aula 2
+- **Fundamentos de Macro e Micro**: 5 aulas
+- **Atualidades**: 1 aula
+- **Prova Discursiva**: 1 aula
+- **Ciência de Dados**: 6 aulas
+- **Língua Portuguesa**: 1 aula
+- **Noções de Lógica e Estatística**: 1 aula
+- **Direito Administrativo**: 1 aula
+- **Segurança da Informação**: 1 aula
+- **Engenharia de Software**: 1 aula
+- **Infraestrutura em TI**: 1 aula
+- **Bancos de Dados**: 1 aula
+- **Gestão em TI**: 0 aulas
 
-### 23 Abril (Terça)
+### Ciclo 5
 
-- ✅ Fundamentos de Macroeconomia e Microeconomia - Aulas 2.4 a 2.6
-- Treinamento Intensivo: Direito Administrativo - Aulas 1 e 2
-- Treinamento Intensivo: Ciência de Dados - Aula 1
-
-### 24 Abril (Quarta)
-
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 13 a 15
-- Atualidades - Aula 3
-- Prova Discursiva (Orientações Gerais) - Aula 3
-
-### 25 Abril (Quinta)
-
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 16 a 18
-- Treinamento Intensivo: Segurança da Informação - Aulas 1 e 2
-- Treinamento Intensivo: Engenharia de Software - Aula 1
-
-## Semana 1: 26 de Abril a 1 de Maio
-
-### 26 Abril (Sexta)
-
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 19 a 21
-- Atualidades - Aula 4
-- Prova Discursiva (Orientações Gerais) - Aula 4
-
-### 27 Abril (Sábado)
-
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 22 a 24
-- Treinamento Intensivo: Infraestrutura em TI - Aulas 1 e 2
-- Treinamento Intensivo: Bancos de Dados - Aula 1
-
-### 29 Abril (Segunda)
-
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 25 a 27
-- Atualidades - Aula 5
-- Prova Discursiva (Orientações Gerais) - Aula 5
-
-### 30 Abril (Terça)
-
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 28 a 30
-- Treinamento Intensivo: Gestão em TI - Aulas 1 a 3
-- Inteligência e Equilíbrio Emocional - Aulas 1 a 3
-
-### 1 Maio (Quarta)
-
-- Fundamentos de Macroeconomia e Microeconomia - Aulas 31 a 39
-- Prova Discursiva (Orientações Gerais) - Aula 6
-- Inteligência e Equilíbrio Emocional - Aulas 4 a 7
-
-Notas:
-
-- **Sábados** focam em iniciar novas disciplinas para manter a intercalação sugerida.
-- A **duração das aulas** e o **tempo adicional para exercícios e anotações** foram considerados.
-- Aulas de **Atualidades e Prova Discursiva** são mais longas, logo, menos aulas por dia.
-- **Domingos são dias de descanso**, conforme pedido.
-
-Com este cronograma, você deve ser capaz de cobrir todos os tópicos necessários com uma distribuição equilibrada ao longo dos dias disponíveis, reservando os últimos 11 dias antes da prova exclusivamente para revisões e simulados.
+- **Fundamentos de Macro e Micro**: 5 aulas
+- **Atualidades**: 0 aulas
+- **Prova Discursiva**: 1 aula
+- **Ciência de Dados**: 6 aulas
+- **Língua Portuguesa**: 1 aula
+- **Noções de Lógica e Estatística**: 2 aulas
+- **Direito Administrativo**: 1 aula
+- **Segurança da Informação**: 1 aula
+- **Engenharia de Software**: 2 aulas
+- **Infraestrutura em TI**: 0 aulas
+- **Bancos de Dados**: 1 aula
+- **Gestão em TI**: 0 aulas
