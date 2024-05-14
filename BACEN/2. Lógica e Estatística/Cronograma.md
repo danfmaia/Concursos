@@ -20,12 +20,12 @@
 - **Fundamentos de Macro e Micro**: 5 aulas ✅
 - **Atualidades**: 2 aulas ✅
 - **Prova Discursiva**: 1 aula ✅
-- **Ciência de Dados**: 6 aulas - 4
-- **Língua Portuguesa**: 1 aula
-- **Noções de Lógica e Estatística**: 1 aula
+- **Ciência de Dados**: 6 aulas ✅
+- **Língua Portuguesa**: 1 aula ✅
+- **Noções de Lógica e Estatística**: 1 aula ✅
 - **Direito Administrativo**: 0 aulas
-- **Segurança da Informação**: 1 aula
-- **Engenharia de Software**: 2 aulas
+- **Segurança da Informação**: 1 aula ✅
+- **Engenharia de Software**: 2 aulas - 1
 - **Infraestrutura em TI**: 1 aula
 - **Bancos de Dados**: 1 aula
 - **Gestão em TI**: 1 aula

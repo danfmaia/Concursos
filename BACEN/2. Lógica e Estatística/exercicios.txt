@@ -1,16 +1,7 @@
 
-0*0  = 0
-> 0
-1*1 = 1
-> 1
-2*2 = 4
-> 4
-3*3 = 9
-> 9
-4*4 = 16
-> 16
-5*5 = 25
-> 25
-6*6 = 36
+• [A] int notas[contador] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+• [B] do { int contador == 0); contador++ while (contador < notas.lenght)
+• [C] do { if ( int contador < 10); contador++
+• [D] for (int contador = 0; contador < notas.lenght; contador++ )
+• [E] for (int contador = 1; contador < notas[10]; contador++ )
 
-0 1 2 3 4 5
