@@ -1,23 +1,23 @@
 {
   "[plaintext]": {
     "editor.fontFamily": "'Noto Sans', 'monospace', monospace",
-    "editor.fontSize": 18,
+    // "editor.fontSize": 14,
     "editor.letterSpacing": 0.2
   },
 
   // extend plaintext settings to other files
   "files.associations": {
-    "*.plaintext": "plaintext",
+    "*.plaintext": "plaintext"
     // "*.md": "md",
     // "*.md": "plaintext",
-    "**/src/common/preliminary_replacements.py": "plaintext"
+  },
+
+  "[markdown]": {
+    "editor.fontFamily": "'Noto Sans', 'monospace', monospace",
+    "editor.tabSize": 2
   },
   // "markdown.preview.fontFamily": "'Noto Sans', 'Droid Sans Mono', 'monospace', monospace",
   "markdown.preview.fontSize": 16,
-
-  "[markdown]": {
-    "editor.tabSize": 2
-  },
 
   "[python]": {
     "editor.tabSize": 4,

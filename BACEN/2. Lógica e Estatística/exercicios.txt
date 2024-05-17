@@ -1,7 +1,3 @@
 
-• [A] int notas[contador] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
-• [B] do { int contador == 0); contador++ while (contador < notas.lenght)
-• [C] do { if ( int contador < 10); contador++
-• [D] for (int contador = 0; contador < notas.lenght; contador++ )
-• [E] for (int contador = 1; contador < notas[10]; contador++ )
-
+a = 4 + 5 = 9 => 4.5
+b = 3 + 5 + 7 = 15 => 5

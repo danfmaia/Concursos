@@ -25,14 +25,14 @@
 - **Noções de Lógica e Estatística**: 1 aula ✅
 - **Direito Administrativo**: 0 aulas
 - **Segurança da Informação**: 1 aula ✅
-- **Engenharia de Software**: 2 aulas - 1
-- **Infraestrutura em TI**: 1 aula
-- **Bancos de Dados**: 1 aula
-- **Gestão em TI**: 1 aula
+- **Engenharia de Software**: 2 aulas ✅
+- **Infraestrutura em TI**: 1 aula ✅
+- **Bancos de Dados**: 2 aulas ✅
+- **Gestão em TI**: 1 aula ✅
 
 ### Ciclo 3
 
-- **Fundamentos de Macro e Micro**: 5 aulas
+- **Fundamentos de Macro e Micro**: 5 aulas ✅
 - **Atualidades**: 0 aula
 - **Prova Discursiva**: 0 aulas
 - **Ciência de Dados**: 6 aulas
@@ -57,7 +57,7 @@
 - **Segurança da Informação**: 1 aula
 - **Engenharia de Software**: 1 aula
 - **Infraestrutura em TI**: 1 aula
-- **Bancos de Dados**: 1 aula
+- **Bancos de Dados**: 2 aulas
 - **Gestão em TI**: 0 aulas
 
 ### Ciclo 5
